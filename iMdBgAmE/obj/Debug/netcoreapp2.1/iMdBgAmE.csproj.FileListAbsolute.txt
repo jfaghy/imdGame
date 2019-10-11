@@ -1,0 +1,11 @@
+C:\Users\faghyj\source\repos\iMdBgAmE\iMdBgAmE\bin\Debug\netcoreapp2.1\iMdBgAmE.deps.json
+C:\Users\faghyj\source\repos\iMdBgAmE\iMdBgAmE\bin\Debug\netcoreapp2.1\iMdBgAmE.runtimeconfig.json
+C:\Users\faghyj\source\repos\iMdBgAmE\iMdBgAmE\bin\Debug\netcoreapp2.1\iMdBgAmE.runtimeconfig.dev.json
+C:\Users\faghyj\source\repos\iMdBgAmE\iMdBgAmE\bin\Debug\netcoreapp2.1\iMdBgAmE.dll
+C:\Users\faghyj\source\repos\iMdBgAmE\iMdBgAmE\bin\Debug\netcoreapp2.1\iMdBgAmE.pdb
+C:\Users\faghyj\source\repos\iMdBgAmE\iMdBgAmE\obj\Debug\netcoreapp2.1\iMdBgAmE.csprojAssemblyReference.cache
+C:\Users\faghyj\source\repos\iMdBgAmE\iMdBgAmE\obj\Debug\netcoreapp2.1\iMdBgAmE.csproj.CoreCompileInputs.cache
+C:\Users\faghyj\source\repos\iMdBgAmE\iMdBgAmE\obj\Debug\netcoreapp2.1\iMdBgAmE.AssemblyInfoInputs.cache
+C:\Users\faghyj\source\repos\iMdBgAmE\iMdBgAmE\obj\Debug\netcoreapp2.1\iMdBgAmE.AssemblyInfo.cs
+C:\Users\faghyj\source\repos\iMdBgAmE\iMdBgAmE\obj\Debug\netcoreapp2.1\iMdBgAmE.dll
+C:\Users\faghyj\source\repos\iMdBgAmE\iMdBgAmE\obj\Debug\netcoreapp2.1\iMdBgAmE.pdb
