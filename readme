@@ -1,0 +1,14 @@
+On launch you will see loading and then after a minute or so you will see:
+
+Decompressed: filmies.tsv.gz
+Decompressed: raties.tsv.gz
+
+Once decompressed it will give you, your first film with the option to play or pass.
+
+To play hit 'Y' or type 'Play' then enter and you will see the film highlight green. 
+To pass simply hit enter to be provided with another film.
+If it has presented you with a film you have already done or wish to never do hit 'd' or type 'done' to add it to list of precompleted movies.
+
+Once playing you will have the option to hit 'a' or 'results' or 'r' to see all the answers come up in blue font.
+
+Once you have revealed the answers hitting enter again will exit the application.
