@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\faghyj\\source\\repos\\iMdBgAmE\\iMdBgAmE\\iMdBgAmE.csproj": {}
+    "C:\\imdb_git\\imdbGame\\iMdBgAmE\\iMdBgAmE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\faghyj\\source\\repos\\iMdBgAmE\\iMdBgAmE\\iMdBgAmE.csproj": {
+    "C:\\imdb_git\\imdbGame\\iMdBgAmE\\iMdBgAmE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\faghyj\\source\\repos\\iMdBgAmE\\iMdBgAmE\\iMdBgAmE.csproj",
+        "projectUniqueName": "C:\\imdb_git\\imdbGame\\iMdBgAmE\\iMdBgAmE.csproj",
         "projectName": "iMdBgAmE",
-        "projectPath": "C:\\Users\\faghyj\\source\\repos\\iMdBgAmE\\iMdBgAmE\\iMdBgAmE.csproj",
+        "projectPath": "C:\\imdb_git\\imdbGame\\iMdBgAmE\\iMdBgAmE.csproj",
         "packagesPath": "C:\\Users\\faghyj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\faghyj\\source\\repos\\iMdBgAmE\\iMdBgAmE\\obj\\",
+        "outputPath": "C:\\imdb_git\\imdbGame\\iMdBgAmE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -25,10 +25,12 @@
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/mhrengineering/_packaging/MHR.DotNet.Talksuite/nuget/v3/index.json": {},
           "https://pkgs.dev.azure.com/mhrengineering/_packaging/MHR.Packages/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -40,18 +42,26 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
